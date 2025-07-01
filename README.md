@@ -17,7 +17,7 @@
 
 ### 💼 Tools & Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 24px;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"width="100px" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"width="50px" />
   <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
