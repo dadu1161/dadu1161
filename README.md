@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dadu1161&show_icons=true&theme=radical" alt="dadu1161's GitHub Stats" />
   <br />
   </p>
-  <p>
+  <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadu1161&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
