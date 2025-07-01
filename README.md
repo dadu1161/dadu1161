@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" width="160px" />
+  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" width="160px" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" width="160px" />
+</p>
 
 
 ---
