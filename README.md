@@ -16,9 +16,9 @@
 ---
 
 ### 💼 Tools & Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&scale=2)
-![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white&scale=2)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&scale=2)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&scale=4)
+![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white&scale=4)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&scale=4)
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white&scale=2)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&scale=2)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&scale=2)
