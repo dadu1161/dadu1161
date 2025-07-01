@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 🌍 I'm Dadu (dadu1161) 👋</h1>
+<h1 align="left">Hello World 🌍 I'm Dadu (dadu1161) 👋</h1>
 
 <p align="center">
   🚀 Aspiring Developer | 🌱 Currently learning everything I can | 🇪🇹 From Ethiopia
