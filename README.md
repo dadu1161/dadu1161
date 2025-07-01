@@ -32,16 +32,47 @@
 ---
 
 ### 📊 GitHub Stats
+<div style="
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  gap: 20px; 
+  background: #1e1e2f; 
+  padding: 20px; 
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.6);
+  max-width: 900px;
+  margin: auto;
+">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=dadu1161&show_icons=true&theme=radical" 
+    alt="dadu1161's GitHub Stats" 
+    style="
+      max-width: 48%; 
+      border-radius: 10px; 
+      box-shadow: 0 4px 12px rgba(255, 0, 128, 0.7);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      cursor: pointer;
+    " 
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 24px rgba(255, 0, 128, 0.9)';" 
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(255, 0, 128, 0.7)';"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadu1161&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    style="
+      max-width: 48%; 
+      border-radius: 10px; 
+      box-shadow: 0 4px 12px rgba(255, 69, 0, 0.7);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      cursor: pointer;
+    "
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 24px rgba(255, 69, 0, 0.9)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(255, 69, 0, 0.7)';"
+  />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dadu1161&show_icons=true&theme=radical" alt="dadu1161's GitHub Stats" />
-
-  </p>
-  <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadu1161&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-  <br />
----
 
 ### 🧠 Fun Facts
 
