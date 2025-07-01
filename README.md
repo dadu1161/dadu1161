@@ -1,6 +1,6 @@
 <h1 align="left">Hello World 🌍 I'm Dagmawi (dadu1161) 👋</h1>
 
-<p align="left">
+<p align="left" style="font-size:16px; >
   🚀 Aspiring Developer | 🌱 Currently learning everything I can | 🇪🇹 From Ethiopia
 </p>
 
