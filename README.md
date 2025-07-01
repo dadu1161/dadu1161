@@ -1,6 +1,6 @@
 <h1 align="left">Hello World 🌍 I'm Dadu (dadu1161) 👋</h1>
 
-<p align="center">
+<p align="left">
   🚀 Aspiring Developer | 🌱 Currently learning everything I can | 🇪🇹 From Ethiopia
 </p>
 
@@ -33,9 +33,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dadu1161&show_icons=true&theme=radical" alt="dadu1161's GitHub Stats" />
   <br />
+  </p>
+  <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadu1161&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
