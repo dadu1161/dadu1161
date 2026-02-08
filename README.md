@@ -34,17 +34,17 @@ I specialize in building scalable applications and optimizing data structures. M
 
 #### 🏛️ AlikoHub | Microservices Ecosystem
 *Full-Stack Developer*
-* Architected a modular backend to handle concurrent user requests.
-* Implemented secure API gateways and optimized database queries for 30% faster load times.
+- Architected a modular backend to handle concurrent user requests.
+- Implemented secure API gateways and optimized database queries for 30% faster load times.
 
 #### 🧠 Smart Home Kernel
 *IoT Engineer*
-* Developed a low-latency communication layer between hardware sensors and a Python-based control hub.
-* Focused on asynchronous processing to ensure 99.9% uptime for environmental monitoring.
+- Developed a low-latency communication layer between hardware sensors and a Python-based control hub.
+- Focused on asynchronous processing to ensure 99.9% uptime for environmental monitoring.
 
 ---
 
-### 📈 Metrics of My Journey
+### 📊 Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dadu1161&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -54,14 +54,24 @@ I specialize in building scalable applications and optimizing data structures. M
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadu1161&theme=tokyonight&hide_border=true" width="100%" />
 </p>
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dadu1161/dadu1161/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ### 📡 Connectivity
 <p align="left">
   <a href="https://www.linkedin.com/in/dagmawi-teferi-634b8b366">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="right">
+  <i>"Code is poetry, but systems are architecture."</i>
 </p>
