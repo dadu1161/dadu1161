@@ -1,4 +1,4 @@
-# ⚡ Dagmawi Teferi | Software Engineer & IS Specialist
+# ⚡ Dagmawi Teferi | Software Engineer & AI Specialist
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=DAGMAWI%20TEFERI&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
@@ -44,13 +44,16 @@ I specialize in building scalable applications and optimizing data structures. M
 
 ---
 
-### 📊 Engineering Metrics
+### 📈 Metrics of My Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dadu1161&show_icons=true&theme=nightowl&hide_border=true&title_color=58a6ff&icon_color=58a6ff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadu1161&layout=compact&theme=nightowl&hide_border=true&title_color=58a6ff" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dadu1161&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadu1161&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadu1161&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 ---
 
 ### 📡 Connectivity
