@@ -1,74 +1,64 @@
-# ⚡ Dagmawi Teferi | Full-Stack Explorer & IS Specialist
+# ⚡ Dagmawi Teferi | Software Engineer & IS Specialist
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:009739,100:EF3340&height=220&section=header&text=Selam,%20I'm%20Dagmawi%20👋&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=DAGMAWI%20TEFERI&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
-### 🌍 The Intersection of Data, Code, and Creativity
-I am a 3rd-year **Information Systems** student based in Ethiopia, bridging the gap between complex data structures and user-centric web experiences. I don't just write code; I build systems that solve real-world friction.
+### 🛠️ Systems Engineering & Full-Stack Architecture
+I specialize in building scalable applications and optimizing data structures. My focus is on **Performance, System Design, and Backend Logic**, moving beyond simple UI to create robust digital infrastructure.
 
 ---
 
-### 🚀 Quick Snapshot
-- **🔭 Currently:** Architecting scalable solutions and refining my Full-Stack toolkit.
-- **🌱 Learning:** Deep diving into **AI/ML integration** and **System Design**.
-- **💡 Philosophy:** "Build, break, learn, repeat."
-- **🎵 Flow State:** Powered by Lo-fi beats and Habesha vibes.
+### 🚀 Core Competencies
+- **Backend Architecture:** Designing microservices and RESTful environments (AlikoHub).
+- **Algorithmic Efficiency:** Implementing advanced data structures (BSTs, Graphs) for high-speed data retrieval.
+- **Embedded Logic:** Bridging hardware and software via Python/C++ for IoT ecosystems.
+- **Information Systems:** Analyzing how tech integrates with business workflows to solve real-world friction.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 💻 Modern Tech Stack
 
-| Category | Tools & Technologies |
+| Domain | Proficiency |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Web / Full-Stack** | ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Design & Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
+| **Core Systems** | `Java` • `C++` • `Python` • `ES6+ JavaScript` |
+| **Architectural Tools** | `React.js` • `Node.js` • `Microservices` • `API Design` |
+| **Data Management** | `PostgreSQL` • `MySQL` • `Relational Modeling` • `NoSQL` |
+| **DevOps & Design** | `Git Architecture` • `Linux` • `Docker (Learning)` • `System Design` |
+
+> **Note:** *Frontend technologies (HTML5/CSS3/Sass) are treated as fundamental standards in all my web-based builds.*
 
 ---
 
-### 📂 Featured Work
+### 🧪 Featured Engineering Lab
 
-#### 🏗️ [AlikoHub Platform](https://github.com/dadu1161)
-> *Internship Project | Microservices & API Integration*
-> Developed a robust backend using microservices to ensure scalability and high availability. Streamlined API communications for a seamless user experience.
+#### 🏛️ AlikoHub | Microservices Ecosystem
+*Full-Stack Developer*
+* Architected a modular backend to handle concurrent user requests.
+* Implemented secure API gateways and optimized database queries for 30% faster load times.
 
-#### 🏠 [Smart Home Ecosystem](https://github.com/dadu1161)
-> *IoT | Python & C++*
-> An interactive system bridging hardware and software to automate home environments, focusing on efficiency and real-time response.
-
-#### 📚 [Library Engine (BST)](https://github.com/dadu1161)
-> *Data Structures | C++*
-> Optimized book search and student record management using Binary Search Trees, reducing data retrieval time significantly.
+#### 🧠 Smart Home Kernel
+*IoT Engineer*
+* Developed a low-latency communication layer between hardware sensors and a Python-based control hub.
+* Focused on asynchronous processing to ensure 99.9% uptime for environmental monitoring.
 
 ---
 
-### 📈 Metrics of My Journey
+### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dadu1161&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadu1161&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadu1161&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dadu1161&show_icons=true&theme=nightowl&hide_border=true&title_color=58a6ff&icon_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadu1161&layout=compact&theme=nightowl&hide_border=true&title_color=58a6ff" width="45%" />
 </p>
 
 ---
 
-### 🤝 Let's Collaborate
-I'm always open to discussing **Open Source projects**, **AI/ML research**, or **Full-Stack opportunities**.
-
-<p align="center">
+### 📡 Connectivity
+<p align="left">
   <a href="https://www.linkedin.com/in/dagmawi-teferi-634b8b366">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <sub>Built with ❤️ and ☕ by Dagmawi.</sub>
 </p>
